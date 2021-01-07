@@ -5,7 +5,6 @@
 My major is Department of Software
 
 ### :spades: Languages and Tools
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
 
 ![Famec7's github stats](https://github-readme-stats.vercel.app/api?username=Famec7&show_icons=true&theme=tokyonight)
